@@ -5,7 +5,8 @@
 
 ### I- The main objective 🎯
 
-<br/> A wine and spirits store wanted to optimize the management of its resources. Indeed, we have 3 databases which each contain essential data.
+<br/> A wine and spirits store wanted to optimize the management of its resources. 
+<br/> Indeed, we have 3 databases which each contain essential data.
 <br/> The main purpose is to perform a join to obtain a single database to facilitate analysis.
 
 
