@@ -1,12 +1,11 @@
 # Project 3 : Conduct a public health study 🗺️
 ## Language : Python 💻
 ## Project duration : 90H ⌛
+### You can find my notebook and the presentation I prepared (initially in PPT format)
 
 ### I- The main objective 🎯
 
 Provide an overview of the state of malnutrition in the world, based on FAO database.
-
-##### You can find my notebook and the presentation I prepared (initially in PPT format)
 
 
 ### II- Calculate
