@@ -1,6 +1,7 @@
 # Project 6 : Analyze gender equality indicators with Knime
 ## Language : KNIME 💻
 ## Project duration : 100H ⌛
+#### You will find a screenshot of my KNIME workflow
 
 ### I- The main objective 🎯
 
