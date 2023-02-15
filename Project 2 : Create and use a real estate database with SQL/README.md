@@ -1,6 +1,7 @@
 # Project 2 : Create and use a real estate database 🏤 
 ## Language : SQL 💻
 ## Project duration : 70H ⌛
+#### You can find my notebook and the presentation I prepared (initially in PPT format)
 
 ### I- The main objective 🎯
 
