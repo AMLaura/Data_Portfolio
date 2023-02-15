@@ -1,4 +1,4 @@
-# Project 5 : 5-	Analyze the sales of a bookstore 📚
+# Project 5 : Analyze the sales of a bookstore 📚
 ## Language : Python 💻
 ## Project duration : 100H ⌛
 #### You can find my notebook and the presentation I prepared (initially in PPT format)
