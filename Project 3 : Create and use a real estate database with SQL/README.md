@@ -8,18 +8,15 @@ The aim is to collect real estate transactions in France.
 
 I had to use this database to analyze the market and helped the various regional agencies to better support their customers by processing the following requests :
 
-<br/> 1- Total number of apartments sold in the 1st half of 2020
-<br/> 2- The number of apartment sales by region for the 1st half of 2020
-<br/> 3- Proportion of apartment sales by number of rooms
-<br/> 4- List of the 10 departments where the price/square meter is the highest
-<br/> 5- Average price per square meter of a house in Île-de-France
-<br/> 6- List of the 10 most expensive apartments with the area and the number of square meters
-<br/> 7- Rate of change in the number of sales between the first and second quarters of 2020
-<br/> 8- The ranking of regions in relation to the price per square meter of apartments with more than 4 rooms
-<br/> 9- List of municipalities having had at least 50 sales in the 1st quarter
-<br/> 10- Percentage difference in price/square meter between a 2 room apartment and a 3 room apartment
-<br/> 11- Average land values for the top 3 municipalities in departments 6, 13, 33, 59 and 69
-<br/> 12- The 20 municipalities with the most transactions per 1 000 residents for municipalities with more than 10 000 residents
+<br/> 1- Total number of apartments sold in the 1st half of 2020.
+<br/> 2- Proportion of apartment sales by number of rooms
+<br/> 3- List of the 10 departments where the price per square meter is the highest
+<br/> 4- Average price per square meter of a house in Île-de-France
+<br/> 5- List of the 10 most expensive apartments with the department and the number of square meters
+<br/> 6- Rate of change in the number of sales between the first and second quarters of 2020
+<br/> 7- List of municipalities where the number of sales increased by at least 20% between the first and second quarters of 2020
+<br/> 8- Percentage difference in price per square meter between a 2 room apartment and a 3 room apartment
+<br/> 9- Average land values for the top 3 municipalities in departments 6, 13, 33, 59 and 69
 
 ### II- The databases provided are as follows
 
