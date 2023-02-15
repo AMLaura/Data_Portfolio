@@ -1,4 +1,4 @@
-# Project 4 : 4-	Optimize store data management 🍷
+# Project 4 : Optimize store data management 🍷
 ## Language : Python 💻
 ## Project duration : 80H ⌛
 #### You can find my notebook and the presentation I prepared (initially in PPT format)
