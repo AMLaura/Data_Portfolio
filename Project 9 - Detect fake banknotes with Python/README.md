@@ -1,7 +1,7 @@
 # Project 9 : Detect fake banknotes 💶
 ## Language : Python 💻
 ## Project duration : 140H ⌛
-#### You can find my notebook and the presentation I prepared (initially in PPT format)
+#### You can find my [notebook](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%209%20-%20Detect%20fake%20banknotes%20with%20Python/P9_Notebook.ipynb) and the [presentation](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%209%20-%20Detect%20fake%20banknotes%20with%20Python/P9_Presentation.pdf) I prepared (initially in PPT format)
 
 ### I- The main objective 🎯
 
