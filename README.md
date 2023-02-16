@@ -29,4 +29,16 @@ In this portfolio, I have included (and I will continue to include) a variety of
 <br/> [KNIME](https://www.knime.com/)
 <br/> [Tableau](https://www.tableau.com/fr-fr/products/public)
 
+# It helped me (a lot) 🤗
+
+#### On Youtube 
+[Machine Learnia](https://www.youtube.com/@MachineLearnia/videos)
+<br/> [Comprendre l'informatique](https://www.youtube.com/@Comprendrelinformatique/videos)
+<br/> [statapprendra2183](https://www.youtube.com/@statapprendra2183/videos)
+<br/> [RealProDatascience](https://www.youtube.com/results?search_query=RealProDatascience)
+<br/> [coursaline](https://www.youtube.com/@coursaline/videos)
+<br/> [khadijaletrache9040](https://www.youtube.com/@khadijaletrache9040/videos)
+
 ### Thanks for reading, and feel free to reach out to me
+
+
