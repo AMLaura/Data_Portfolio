@@ -2,7 +2,7 @@
 ## Language : Tableau 💻
 ## Project duration : 100H ⌛
 
-# You will find my project [on this link](https://public.tableau.com/views/A_Laura_1_histoire_Tableau_072022/Histoire1?:language=fr-FR&:display_count=n&:origin=viz_share_link).
+# You will find my project [on this link](https://public.tableau.com/app/profile/lolo6156/viz/A_Laura_1_histoire_Tableau_072022/Histoire1).
 
 ### I- The main objective 🎯
 
