@@ -2,7 +2,7 @@
 
 Welcome to my Data Analyst Portfolio!
 
-I have a Master Degree in financial and banking law. I've also started a Data Analyst course with [Openclassrooms in collaboration with ENSAE](https://openclassrooms.com/fr/paths/324-data-analyst) in January 2022 that I've finished it in October 2022 👩‍🎓
+I have a Master Degree in financial and banking law. I've also started a Data Analyst course (Titre RNCP niveau 6) with [Openclassrooms in collaboration with ENSAE](https://openclassrooms.com/fr/paths/324-data-analyst) in January 2022 that I've completed in October 2022.👩‍🎓
 
 This course contained 9 projects (they all written in french and for the next ones, they will be written in english).
 <br/> 1 - Perform sales analysis for an e-commerce (60 hours)
