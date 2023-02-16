@@ -1,7 +1,7 @@
 # Project 1 : Perform sales analysis for an e-commerce with Excel and Power Query
 ## Language : Excel & Power Query 💻
 ## Project duration : 60H ⌛
-#### You can find the report and my Excel sheet that I've prepared
+#### You can find [my report (Excel sheet)](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%201%20-%20Perform%20sales%20analysis%20for%20an%20e-commerce%20with%20Excel%20and%20Power%20Query/P1_Rapport.xlsx) and [the slides](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%201%20-%20Perform%20sales%20analysis%20for%20an%20e-commerce%20with%20Excel%20and%20Power%20Query/P1_Slides.pdf) that I've prepared
 
 ### I- The main objective 🎯
 
