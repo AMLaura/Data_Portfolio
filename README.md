@@ -23,7 +23,7 @@ In this portfolio, I have included (and I will continue to include) a variety of
 #### ▶️ I will start learning R and Power BI in the next few months and acquire my knowledge by doing projects via KAGGLE or free databases
 
 # Language & Softwares 
-<br/> Excel & PowerQuery
+<br/> Excel & Power Query
 <br/> [MySQL](https://www.mysql.com/fr/)
 <br/> [Python](https://www.python.org/)
 <br/> [KNIME](https://www.knime.com/)
