@@ -1,7 +1,7 @@
 # Project 3 : Conduct a public health study 🗺️
 ## Language : Python 💻
 ## Project duration : 90H ⌛
-#### You can find my notebook and the presentation I prepared (initially in PPT format)
+#### You can find [my notebook](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%203%20:%20Conduct%20a%20public%20health%20study%20with%20Python/P3_Notebook_Python.ipynb) and [the presentation](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%203%20:%20Conduct%20a%20public%20health%20study%20with%20Python/P3_Presentation.pdf) I prepared (initially in PPT format)
 
 ### I- The main objective 🎯
 
