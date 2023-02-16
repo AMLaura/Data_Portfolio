@@ -5,7 +5,7 @@ Welcome to my Data Analyst Portfolio!
 I have a Master Degree in financial and banking law. I've also started a Data Analyst course (Titre RNCP niveau 6) with [Openclassrooms in collaboration with ENSAE](https://openclassrooms.com/fr/paths/324-data-analyst) in January 2022 that I've completed in October 2022.👩‍🎓
 
 This course contained 9 projects (they all written in french and for the next ones, they will be written in english).
-<br/> 1 - Perform sales analysis for an e-commerce (60 hours)
+<br/> 1 - [Perform sales analysis for an e-commerce with Excel and Power Query](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%201%20-%20Perform%20sales%20analysis%20for%20an%20e-commerce%20with%20Excel%20and%20Power%20Query/README.md) (60 hours)
 <br/> 2 - [Create and use a real estate database with SQL](https://github.com/AMLaura/Data_Portfolio/tree/main/Project%202%20:%20Create%20and%20use%20a%20real%20estate%20database%20with%20SQL) (70 hours)
 <br/> 3 - [Conduct a public health study with Python](https://github.com/AMLaura/Data_Portfolio/tree/main/Project%203%20:%20Conduct%20a%20public%20health%20study%20with%20Python) (90 hours)
 <br/> 4 - [Optimize store data management with Python](https://github.com/AMLaura/Data_Portfolio/tree/main/Project%204%20-%20Optimize%20store%20data%20management%20with%20Python) (80h)
