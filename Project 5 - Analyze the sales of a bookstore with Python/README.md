@@ -1,7 +1,7 @@
 # Project 5 : Analyze the sales of a bookstore 📚
 ## Language : Python 💻
 ## Project duration : 100H ⌛
-#### You can find my notebook and the presentation I prepared (initially in PPT format)
+#### You can find [my notebook](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%205%20-%20Analyze%20the%20sales%20of%20a%20bookstore%20with%20Python/P5_Notebook.ipynb) and [the presentation](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%205%20-%20Analyze%20the%20sales%20of%20a%20bookstore%20with%20Python/P5_Presentation.pdf) I prepared (initially in PPT format)
 
 ### I- The main objective 🎯
 
