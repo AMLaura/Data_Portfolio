@@ -1,7 +1,7 @@
 # Project 2 : Create and use a real estate database 🏤 
 ## Language : SQL 💻
 ## Project duration : 70H ⌛
-#### You can find my notebook and the presentation I prepared (initially in PPT format)
+#### You can find the [dictionnary,requests and the presentation](https://github.com/AMLaura/Data_Portfolio/blob/main/Project%202%20:%20Create%20and%20use%20a%20real%20estate%20database%20with%20SQL/Dictionnaire_Requetes.pdf) I prepared (initially in PPT format)
 
 ### I- The main objective 🎯
 
