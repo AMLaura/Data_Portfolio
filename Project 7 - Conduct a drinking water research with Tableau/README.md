@@ -1,5 +1,5 @@
 # Project 7 - Conduct a drinking water research 🚰
-## Language : Tableau 💻
+## Software : Tableau 💻
 ## Project duration : 100H ⌛
 
 # You will find my project [on this link](https://public.tableau.com/app/profile/lolo6156/viz/A_Laura_1_histoire_Tableau_072022/Histoire1).
